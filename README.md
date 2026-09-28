@@ -1,0 +1,2 @@
+# Tradesqo
+.
